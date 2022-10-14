@@ -1,7 +1,5 @@
 require("scripts.init") -- defines initialize_player
 
--- I am learning how to mod GUIs by inspecting https://github.com/Wiwiweb/FactorioMilestones
-
 -- Returns the gui for the player. Initializes the gui if it does not exist
 local function ensure_gui(player)
 	if not global.players[player.index] then
