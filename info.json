@@ -1,9 +1,9 @@
 {
-  "name": "staticx",
+  "name": "statsx",
   "version": "0.1.0",
   "title": "Statistics Expanded",
   "author": "snn",
   "factorio_version": "1.1",
-  "dependencies": ["base >= 1.1"],
+  "dependencies": ["base >= 1.1", "flib >= 0.7.0"],
   "description": "Calculates advanced statistics -- see the recipes your consumption goes towards!"
 }
